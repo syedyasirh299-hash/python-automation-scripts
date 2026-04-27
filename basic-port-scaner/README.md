@@ -36,8 +36,10 @@ Then enter:
 
 ## 📸 Example Output
 
-[+] Port 22 is open
-[-] Port 80 is closed
+<p align="center">
+   <img src="image.png" width="600">
+  <img src="output.png" width="600">
+</p>
 
 ## ⚠️ Disclaimer
 
