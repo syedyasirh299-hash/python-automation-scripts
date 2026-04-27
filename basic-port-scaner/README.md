@@ -37,8 +37,8 @@ Then enter:
 ## 📸 Example Output
 
 <p align="center">
-   <img src="output.png" width="600">
-   <img src="image.png" width="600">
+   <img src="output.png" width="800">
+   <img src="image.png" width="800">
 </p>
 
 ## ⚠️ Disclaimer
